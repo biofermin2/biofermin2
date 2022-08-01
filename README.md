@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biofermin2
+- 👋 Hi, I’m biofermin2
 - 👀 I’m interested in Common lisp
 - 🌱 I’m currently learning common lisp javascript python rust and so on.
 - 📫 if you want to take contact with me, please send message to @biofermin2 on twitter account.
